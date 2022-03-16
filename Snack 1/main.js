@@ -1,7 +1,7 @@
 let n1 = prompt("inserisci primo numero");
 let n2 = prompt("inserisci secondo numero");
 
-n1=parseInt(n1);
+n1 = parseInt(n1);
 n2 = parseInt(n2);
 
 
